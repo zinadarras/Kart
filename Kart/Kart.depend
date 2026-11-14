@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1794044200 source:c:\miniproj\kart\kartv1.c
-	<stdio.h>
-	<time.h>
-
-1794041413 source:c:\miniproj\kart\menu.c
-
